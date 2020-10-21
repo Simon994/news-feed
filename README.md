@@ -1,4 +1,4 @@
-# ![](./src/images/feed-large.jpg) News Feed
+# News Feed
 
 ## Installation
 * Clone or download the repo
