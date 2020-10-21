@@ -1,8 +1,9 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) GA London React Template
+# ![](./src/images/feed-large.jpg) News Feed
 
-`yarn start` to run the development server
-
-`yarn build` to create a build directory
+## Installation
+* Clone or download the repo
+* Install dependencies by running `yarn`
+* Start the development server by running `yarn start` 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
