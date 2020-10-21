@@ -4,7 +4,7 @@ News Feed was built in 3 days, as part of a two-person collaborative project to 
 Users can browse and search for news, and store preferences to build their own personalised news feed
 
 ## Live version
-Please note that because of restrictions placed on the API key by News API, there is currently no live version of this project; however, to see it in action, you can follow the installation instructions below. Alternatively, you can see a live version of News Feed v2Global, which is similar in functionality to News Feed, but consumes data from GNews, https://gnews.io/ (rather than News API):
+Please note that because of restrictions placed on the API key by News API, there is currently no live version of this project; however, using a free API key from News API, requests can be made via the browser while testing from localhost. Therefore, to see News Feed in action, you can follow the installation instructions below. Alternatively, you can see a live version of News Feed v2Global, which is similar in functionality to News Feed, but consumes data from GNews, https://gnews.io/ (rather than News API):
 * News Feed v2Global:
   * live version: https://the-news-feed-v2-global.netlify.app
   * repo: https://github.com/Simon994/news-feed-v2Global
